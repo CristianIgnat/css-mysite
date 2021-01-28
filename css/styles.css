@@ -83,7 +83,7 @@ a:hover {
 }
 
 .avatar {
-  width: 6.25rem;
+  width: 12rem;
 }
 
 .description {
@@ -95,13 +95,13 @@ a:hover {
 .image1 {
   float: left;
   margin-right: 30px;
-  width: 6.25rem;
+  width: 12rem;
 }
 
 .image2 {
   float: right;
   margin-left: 30px;
-  width: 6.25rem;
+  width: 12rem;
 }
 
 .contact-paragraph {
